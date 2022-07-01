@@ -6,6 +6,7 @@ A automation Shell Script that makes recon easy by running a small Shell Script 
 target=$1
 
 REDCOLOR="\e[32m"
+
 GREENCOLOR="\e[31m"
 
 if [ ! -d $target]
