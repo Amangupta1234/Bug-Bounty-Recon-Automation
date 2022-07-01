@@ -1,6 +1,8 @@
 # Bug-Bounty-Recon-Automation
 A automation Shell Script that makes recon easy by running a small Shell Script to make Project Documentation, Subdomains enumeration, Sorting and Filtering, Resolving subdomains and Directory Bruteforcing/Fuzzing possible in single script  so let's start...
 
+
+
 #!/bin/bash
 
 target=$1
